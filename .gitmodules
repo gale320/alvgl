@@ -7,3 +7,21 @@
 [submodule "lvgl/lv_demos"]
 	path = lvgl/lv_demos
 	url = https://github.com/lvgl/lv_demos.git
+[submodule "lvgl/docs"]
+	path = lvgl/docs
+	url = git@github.com:lvgl/docs.git
+[submodule "lvgl/lv_lib_png"]
+	path = lvgl/lv_lib_png
+	url = git@github.com:lvgl/lv_lib_png.git
+[submodule "lvgl/lv_lib_gif"]
+	path = lvgl/lv_lib_gif
+	url = git@github.com:lvgl/lv_lib_gif.git
+[submodule "lvgl/lv_lib_bmp"]
+	path = lvgl/lv_lib_bmp
+	url = git@github.com:lvgl/lv_lib_bmp.git
+[submodule "lvgl/lv_lib_qrcode"]
+	path = lvgl/lv_lib_qrcode
+	url = git@github.com:lvgl/lv_lib_qrcode.git
+[submodule "lvgl/lv_lib_split_jpg"]
+	path = lvgl/lv_lib_split_jpg
+	url = git@github.com:lvgl/lv_lib_split_jpg.git
